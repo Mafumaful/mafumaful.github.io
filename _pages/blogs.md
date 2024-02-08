@@ -7,3 +7,5 @@ comments: true
 ---
 
 This is my blog page.
+
+<!-- insert -->
