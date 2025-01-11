@@ -21,3 +21,13 @@ slorber:
     linkedin: sebastienlorber
     github: slorber
     newsletter: https://thisweekinreact.com
+
+mafumaful:
+  name: mafumaful
+  title: Student @ UWaterloo
+  url: https://github.com/mafumaful
+  image_url: https://github.com/mafumaful.png
+  page: true
+  socials:
+    x: MasjfM
+    github: mafumaful
