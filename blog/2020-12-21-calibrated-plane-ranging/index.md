@@ -21,6 +21,8 @@ tags: [algorithm]
 
 强烈建议用typora查看！！！！我好多东西都没有完完全全显示出来（比如latex文本，还有好多Typora好多内置的语句），如果不想用typora看的话，那就用html看吧~:sassy_man:
 
+<!-- truncate -->
+
 ---
 
 # 1设计任务
