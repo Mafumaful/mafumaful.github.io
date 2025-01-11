@@ -39,7 +39,7 @@ export default [
   },
   {
     path: '/blog',
-    component: ComponentCreator('/blog', '239'),
+    component: ComponentCreator('/blog', '3b0'),
     exact: true
   },
   {
@@ -59,7 +59,7 @@ export default [
   },
   {
     path: '/blog/authors/mafumaful',
-    component: ComponentCreator('/blog/authors/mafumaful', '629'),
+    component: ComponentCreator('/blog/authors/mafumaful', 'aef'),
     exact: true
   },
   {
@@ -68,8 +68,8 @@ export default [
     exact: true
   },
   {
-    path: '/blog/first-blog-post',
-    component: ComponentCreator('/blog/first-blog-post', 'c69'),
+    path: '/blog/blog-post',
+    component: ComponentCreator('/blog/blog-post', '2d4'),
     exact: true
   },
   {
@@ -78,8 +78,13 @@ export default [
     exact: true
   },
   {
+    path: '/blog/tags/algorithm',
+    component: ComponentCreator('/blog/tags/algorithm', '256'),
+    exact: true
+  },
+  {
     path: '/blog/tags/docusaurus',
-    component: ComponentCreator('/blog/tags/docusaurus', '1b0'),
+    component: ComponentCreator('/blog/tags/docusaurus', 'a50'),
     exact: true
   },
   {
@@ -89,12 +94,17 @@ export default [
   },
   {
     path: '/blog/tags/hello',
-    component: ComponentCreator('/blog/tags/hello', 'e42'),
+    component: ComponentCreator('/blog/tags/hello', 'd6a'),
     exact: true
   },
   {
     path: '/blog/welcome',
     component: ComponentCreator('/blog/welcome', 'd2b'),
+    exact: true
+  },
+  {
+    path: '/blog/标定平面测距',
+    component: ComponentCreator('/blog/标定平面测距', '91b'),
     exact: true
   },
   {

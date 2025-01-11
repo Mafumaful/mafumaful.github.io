@@ -2,8 +2,8 @@
   "title": "Recent posts",
   "items": [
     {
-      "title": "First Blog Post",
-      "permalink": "/blog/first-blog-post",
+      "title": "Blog Post",
+      "permalink": "/blog/blog-post",
       "unlisted": false,
       "date": "2025-01-10T00:00:00.000Z"
     },
@@ -12,6 +12,12 @@
       "permalink": "/blog/welcome",
       "unlisted": false,
       "date": "2021-08-26T00:00:00.000Z"
+    },
+    {
+      "title": "标定平面测距",
+      "permalink": "/blog/标定平面测距",
+      "unlisted": false,
+      "date": "2020-12-21T00:00:00.000Z"
     }
   ]
 }

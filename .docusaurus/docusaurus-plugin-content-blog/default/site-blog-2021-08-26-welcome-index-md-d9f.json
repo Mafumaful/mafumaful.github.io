@@ -74,7 +74,11 @@
   },
   "unlisted": false,
   "prevItem": {
-    "title": "First Blog Post",
-    "permalink": "/blog/first-blog-post"
+    "title": "Blog Post",
+    "permalink": "/blog/blog-post"
+  },
+  "nextItem": {
+    "title": "标定平面测距",
+    "permalink": "/blog/标定平面测距"
   }
 }
