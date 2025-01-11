@@ -19,7 +19,7 @@ tags: [algorithm]
 
 代码就看后面附录吧，就不单独整理出来了:smile:
 
-强烈建议用typora查看！！！！我好多东西都没有完完全全显示出来（比如latex文本，还有好多Typora好多内置的语句），如果不想用typora看的话，那就用html看吧~:sassy_man:
+强烈建议用typora查看！！！！我好多东西都没有完完全全显示出来（比如latex文本，还有好多Typora好多内置的语句），如果不想用typora看的话，那就用html看吧~
 
 <!-- truncate -->
 
@@ -102,11 +102,7 @@ f & 0 & 0 & 0\\
 0 & f & 0 & 0\\
 0 & 0 & 1 & 0
 \end{array}\right]
-\left[\begin{array}{ccc|c}
-R & t\\
-\hline
-0^T & 1
-\end{array}\right]
+\left[\begin{array}{c|c}R&t\\\hline 0^T&1\end{array}\right]\left[\begin{array}{c}X\\Y\\Z\\1\end{array}\right]
 \left[\begin{array}{c}
 X\\Y\\Z\\1
 \end{array}\right]
