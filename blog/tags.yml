@@ -22,3 +22,8 @@ algorithm:
   label: algorithm
   permalink: /algorithm
   description: algorithm tag description
+
+diary:
+  label: diary
+  permalink: /diary
+  description: diary tag description

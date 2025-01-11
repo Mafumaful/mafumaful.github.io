@@ -5,3 +5,4 @@ _site
 vendor
 .cache
 .docusaurus/
+node_modules/
