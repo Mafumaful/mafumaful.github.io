@@ -3,7 +3,7 @@
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2019-05-28-first-blog-post.md",
   "source": "@site/blog/2019-05-28-first-blog-post.md",
   "title": "First Blog Post",
-  "description": "Lorem ipsum dolor sit amet...",
+  "description": "My First blog...",
   "date": "2019-05-28T00:00:00.000Z",
   "tags": [
     {
@@ -19,46 +19,29 @@
       "description": "Docusaurus tag description"
     }
   ],
-  "readingTime": 0.135,
+  "readingTime": 0.15,
   "hasTruncateMarker": true,
   "authors": [
     {
-      "name": "Sébastien Lorber",
-      "title": "Docusaurus maintainer",
-      "url": "https://sebastienlorber.com",
+      "name": "mafumaful",
+      "title": "Student @ UWaterloo",
+      "url": "https://github.com/mafumaful",
       "page": {
-        "permalink": "/blog/authors/all-sebastien-lorber-articles"
+        "permalink": "/blog/authors/mafumaful"
       },
       "socials": {
-        "x": "https://x.com/sebastienlorber",
-        "linkedin": "https://www.linkedin.com/in/sebastienlorber/",
-        "github": "https://github.com/slorber",
-        "newsletter": "https://thisweekinreact.com"
+        "x": "https://x.com/MasjfM",
+        "github": "https://github.com/mafumaful"
       },
-      "imageURL": "https://github.com/slorber.png",
-      "key": "slorber"
-    },
-    {
-      "name": "Yangshun Tay",
-      "title": "Front End Engineer @ Facebook",
-      "url": "https://github.com/yangshun",
-      "page": {
-        "permalink": "/blog/authors/yangshun"
-      },
-      "socials": {
-        "x": "https://x.com/yangshunz",
-        "github": "https://github.com/yangshun"
-      },
-      "imageURL": "https://github.com/yangshun.png",
-      "key": "yangshun"
+      "imageURL": "https://github.com/mafumaful.png",
+      "key": "mafumaful"
     }
   ],
   "frontMatter": {
     "slug": "first-blog-post",
     "title": "First Blog Post",
     "authors": [
-      "slorber",
-      "yangshun"
+      "mafumaful"
     ],
     "tags": [
       "hola",
@@ -67,7 +50,7 @@
   },
   "unlisted": false,
   "prevItem": {
-    "title": "Long Blog Post",
-    "permalink": "/blog/long-blog-post"
+    "title": "Welcome",
+    "permalink": "/blog/welcome"
   }
 }

@@ -39,7 +39,7 @@ export default [
   },
   {
     path: '/blog',
-    component: ComponentCreator('/blog', 'b2f'),
+    component: ComponentCreator('/blog', '239'),
     exact: true
   },
   {
@@ -54,27 +54,22 @@ export default [
   },
   {
     path: '/blog/authors/all-sebastien-lorber-articles',
-    component: ComponentCreator('/blog/authors/all-sebastien-lorber-articles', '4a1'),
+    component: ComponentCreator('/blog/authors/all-sebastien-lorber-articles', '0a8'),
+    exact: true
+  },
+  {
+    path: '/blog/authors/mafumaful',
+    component: ComponentCreator('/blog/authors/mafumaful', '629'),
     exact: true
   },
   {
     path: '/blog/authors/yangshun',
-    component: ComponentCreator('/blog/authors/yangshun', 'a68'),
+    component: ComponentCreator('/blog/authors/yangshun', 'db6'),
     exact: true
   },
   {
     path: '/blog/first-blog-post',
-    component: ComponentCreator('/blog/first-blog-post', '89a'),
-    exact: true
-  },
-  {
-    path: '/blog/long-blog-post',
-    component: ComponentCreator('/blog/long-blog-post', '9ad'),
-    exact: true
-  },
-  {
-    path: '/blog/mdx-blog-post',
-    component: ComponentCreator('/blog/mdx-blog-post', 'e9f'),
+    component: ComponentCreator('/blog/first-blog-post', 'c69'),
     exact: true
   },
   {
@@ -84,7 +79,7 @@ export default [
   },
   {
     path: '/blog/tags/docusaurus',
-    component: ComponentCreator('/blog/tags/docusaurus', '704'),
+    component: ComponentCreator('/blog/tags/docusaurus', '1b0'),
     exact: true
   },
   {
@@ -94,12 +89,7 @@ export default [
   },
   {
     path: '/blog/tags/hello',
-    component: ComponentCreator('/blog/tags/hello', '299'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/hola',
-    component: ComponentCreator('/blog/tags/hola', '00d'),
+    component: ComponentCreator('/blog/tags/hello', 'e42'),
     exact: true
   },
   {

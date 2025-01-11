@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
+  title: 'Mafumaful',
   tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
 
@@ -77,7 +77,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'Mafumaful',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -91,7 +91,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/mafumaful',
             label: 'GitHub',
             position: 'right',
           },
@@ -113,16 +113,8 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
                 label: 'X',
-                href: 'https://x.com/docusaurus',
+                href: 'https://x.com/MasjfM',
               },
             ],
           },
@@ -135,7 +127,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/mafumaful',
               },
             ],
           },
