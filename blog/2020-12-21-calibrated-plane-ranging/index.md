@@ -1,5 +1,5 @@
 ---
-slug: 标定平面测距
+slug: calibrated-plane
 title: 标定平面测距
 authors: [mafumaful]
 tags: [algorithm]

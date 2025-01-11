@@ -73,6 +73,11 @@ export default [
     exact: true
   },
   {
+    path: '/blog/calibrated-plane',
+    component: ComponentCreator('/blog/calibrated-plane', '62f'),
+    exact: true
+  },
+  {
     path: '/blog/tags',
     component: ComponentCreator('/blog/tags', '287'),
     exact: true
@@ -100,11 +105,6 @@ export default [
   {
     path: '/blog/welcome',
     component: ComponentCreator('/blog/welcome', 'd2b'),
-    exact: true
-  },
-  {
-    path: '/blog/标定平面测距',
-    component: ComponentCreator('/blog/标定平面测距', '91b'),
     exact: true
   },
   {
