@@ -94,11 +94,17 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'pythonSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Python Tutorial',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {
+            type: 'docSidebar',
+            sidebarId: 'cppSidebar',
+            position: 'left',
+            label: 'Cpp Tutorial',
+          },
+          {to: '/blog', label: 'Blog', position: 'right'},
           {
             href: 'https://github.com/mafumaful',
             label: 'GitHub',
