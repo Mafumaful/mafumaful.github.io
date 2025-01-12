@@ -104,6 +104,12 @@ const config = {
             position: 'left',
             label: 'Cpp Tutorial',
           },
+          {
+            type: 'docSidebar',
+            sidebarId: 'notesSidebar',
+            position: 'left',
+            label: 'Notes',
+          },
           {to: '/blog', label: 'Blog', position: 'right'},
           {
             href: 'https://github.com/mafumaful',
