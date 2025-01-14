@@ -1,6 +1,6 @@
 ---
 slug: diary
-title: 2025.1.11 日记
+title: 2025-01-11 日记
 authors: [mafumaful]
 tags: [diary]
 ---
