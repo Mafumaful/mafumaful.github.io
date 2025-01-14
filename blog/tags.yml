@@ -27,3 +27,8 @@ diary:
   label: diary
   permalink: /diary
   description: diary tag description
+
+record:
+  label: record
+  permalink: /record
+  description: direcord tag description
