@@ -1,5 +1,5 @@
 ---
-slug: diary
+slug: diary-0
 title: 2025-01-11 日记
 authors: [mafumaful]
 tags: [diary]
