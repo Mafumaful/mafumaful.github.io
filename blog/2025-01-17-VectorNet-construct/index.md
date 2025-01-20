@@ -20,3 +20,5 @@ tags: [algorithm]
 
 ![image1](vectornet_1.png)
 ![image2](vectornet_2.png)
+
+这个项目就使用了GNN，在这里我主要探讨他们是怎么给各个数据打包的。
